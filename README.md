@@ -5,5 +5,6 @@
 Para executar em seu pc use:
 
 ```
-npm install codigos-do-mumford
+***javac*** HelloWorld.java
+***java HelloWorld.java
 ```
