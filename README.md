@@ -5,6 +5,6 @@
 Para executar em seu pc use:
 
 ```
-***javac*** HelloWorld.java
-***java HelloWorld.java
+javac HelloWorld.java
+java HelloWorld.java
 ```
